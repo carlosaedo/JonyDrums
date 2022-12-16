@@ -3,4 +3,4 @@
 
 Yet another useless project! JonyDrums!
 
-Play with JonyDrums http://carlosaedo.com/JonyDrums/
+Play with JonyDrums http://carlosaedo.com/jonydrums/
