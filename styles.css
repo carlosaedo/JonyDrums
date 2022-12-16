@@ -6,14 +6,16 @@ body {
 h1 {
   font-size: 5rem;
   color: #b5ff61;
-  font-family: "Arvo", cursive;
+  font-family: 'Lobster', cursive;
   text-shadow: 3px 0 #ffffff;
 
 }
 
 footer {
-  color: #DBEDF3;
-  font-family: sans-serif;
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
 }
 
 .set {
@@ -38,7 +40,7 @@ footer {
   outline: none;
   border: 10px solid #4f6940;
   font-size: 5rem;
-  font-family: 'Arvo', cursive;
+  font-family: 'Lobster', cursive;
   line-height: 2;
   font-weight: 900;
   color: #8fda04;
